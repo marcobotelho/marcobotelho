@@ -78,5 +78,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcobotelho&count_private=true&theme=dracula" />
   </a>
   <a href="https://github.com/marcobotelho/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&theme=dracula&layout=compact&langs_count=8&card_width=280" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&theme=dracula&layout=compact&langs_count=8" />
   </a>
