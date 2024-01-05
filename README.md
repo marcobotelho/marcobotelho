@@ -69,14 +69,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
 
-  ## Projetos
-  - Projeto 1.
-  - Projeto 2.
-  
   ## Estatísticas:
-  <a href="https://github.com/marcobotelho/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcobotelho&count_private=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/marcobotelho/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&theme=dracula&layout=compact&langs_count=8" />
-  </a>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobotelho&count_private=true&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&layout=compact&theme=dracula)
+ 
