@@ -75,16 +75,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
   ## Estatísticas:
   <a href="https://github.com/marcobotelho/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcobotelho&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcobotelho&count_private=true&theme=dracula" />
   </a>
   <a href="https://github.com/marcobotelho/convoychat">
-    <img height=200 with=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcobotelho&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&theme=dracula&layout=compact&langs_count=8&card_width=280" />
   </a>
-
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>-->
-
