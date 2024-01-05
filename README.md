@@ -69,7 +69,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
 
-  ## Estatísticas:
+  ## Estatísticas
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobotelho&count_private=true&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobotelho&layout=compact&theme=dracula)
